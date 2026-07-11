@@ -1,21 +1,11 @@
-Archivo  automatizacion-semana10.txt
-Automatización con n8n y Telegram
+Archivo  reflexion-semana10.txt
 
-Evento que activa el flujo:
-Se registra un nuevo reporte en el sistema.
+Las metodologías ágiles ayudan a organizar el trabajo de manera ordenada y permiten avanzar por etapas. Un backlog facilita establecer prioridades y trabajar primero en las tareas más importantes. Las iteraciones permiten mejorar continuamente el proyecto y corregir errores a tiempo. La automatización con herramientas como n8n reduce el trabajo repetitivo y hace más eficiente el seguimiento de actividades. Telegram permite enviar notificaciones rápidas para mantener informado al equipo. Estas herramientas mejoran la comunicación entre los participantes. También ayudan a responder con mayor rapidez a las necesidades de la comunidad. En conjunto, favorecen una mejor organización, colaboración y participación ciudadana.
 
-Acción:
-n8n detecta el nuevo reporte y envía una notificación a un grupo de Telegram.
+Comandos para subir la actividad a GitHub
 
-Mensaje enviado:
-"Nuevo reporte recibido. Revisar el sistema para conocer los detalles."
+git add .
+git commit -m "Actividad semana 10"
+git push
 
-Información que NO debe enviarse por seguridad:
-- Nombres completos.
-- Documentos de identidad.
-- Direcciones.
-- Teléfonos.
-- Correos electrónicos.
-- Contraseñas.
-- Cualquier dato personal o sensible.
 
