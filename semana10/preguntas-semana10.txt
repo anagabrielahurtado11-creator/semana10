@@ -1,0 +1,13 @@
+preguntas-semana10.txt
+
+pregunta1
+Repuesta.Una una lista priorzada de tareas o funcionalidades por desarrollar.
+
+Pregunta2
+Repuesta.Una formabreve de expresar qué necesita un usuario y para qué lo necesitas.
+
+pregunta3
+Repuesta.Automatizar tareas repetitiva y notificaciones de seguimientos no sensibles.
+
+Pregunta4
+Repuesta.Como canal de coordinación ,convocatoria y notificacion comunitaria
